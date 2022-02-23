@@ -38,6 +38,10 @@ sites:
   - name: Optoingen-Web
     url: https://optoingen.com
     icon: https://media-exp1.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_200_200/0/1633736192649?e=1653523200&v=beta&t=_O_rHfZ4UPxlt8hWG9j1izig_NgmpTnJI6eREwvLcmU
+  - name: Luke
+    url: https://langstadlingerbak.de4.quickconnect.to
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+    __dangerous__body_down: "Cannot connect to"
   - name: Baumschule Frank
     url: https://baumschule-frank.com
     icon: https://www.baumschule-frank.com/wp-content/uploads/2021/03/cropped-firmenlogo.jpg
@@ -50,8 +54,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.langstadlinger.eu
   #baseUrl: /status
-  theme: night
-  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+10) { margin-left: 40px; }"
+  theme: dark
+  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+11) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
   introTitle: "Service Status Summary"
