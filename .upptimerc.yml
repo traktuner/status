@@ -1,26 +1,45 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: traktuner # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Anakin
+    url: https://anakin.langstadlinger.eu
+  - name: VMM
+    url: https://vmm.langstadlinger.eu
+  - name: ABB Restore
+    url: https://backup.langstadlinger.eu
+  - name: Portainer
+    url: https://prt-prod.langstadlinger.eu
+  - name: Matrix Chat WebUI
+    url: https://chat.langstadlinger.eu
+  - name: Matrix Chat Synapse Status
+    url: https://synapse.langstadlinger.eu
+  - name: Matrix Chat API
+    url: https://matrix.langstadlinger.eu/googlechat/login/
+  - name: Bitwarden
+    url: https://pw.langstadlinger.eu
+  - name: Zabbix
+    url: https://zbx.langstadlinger.eu
+  - name: Baumschule Frank
+    url: https://baumschule-frank.com
+  - name: Optoingen-Web
+    url: https://optoingen.com
+
+assignees: # Users to assign downtime issues (optional)
+  - traktuner
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.langstadlinger.eu
+  #baseUrl: /status
+  theme: night
+  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+2), #sapper > main > section.live-status > article:nth-child(n+4):nth-child(-n+10) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Service Status
+  introTitle: "Service Status Summary"
+  introMessage:
   navbar:
     - title: Status
       href: /
