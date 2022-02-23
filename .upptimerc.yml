@@ -5,16 +5,21 @@ repo: status # The name of this repository
 sites:
   - name: Anakin
     url: https://anakin.langstadlinger.eu
-    icon: https://cdn.icon-icons.com/icons2/2389/PNG/512/synology_logo_icon_144820.png
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: VMM
     url: https://vmm.langstadlinger.eu
-    icon: https://cdn.icon-icons.com/icons2/2389/PNG/512/synology_logo_icon_144820.png
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: ABB Backup
+    check: "tcp-ping"
+    url: backup.langstadlinger.eu
+    port: 5510
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: ABB Restore
     url: https://backup.langstadlinger.eu
-    icon: https://cdn.icon-icons.com/icons2/2389/PNG/512/synology_logo_icon_144820.png
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Portainer
     url: https://prt-prod.langstadlinger.eu
-    icon: https://worldvectorlogo.com/de/download/portainer.svghttps://cdn.icon-icons.com/icons2/2389/PNG/512/synology_logo_icon_144820.png
+    icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: Matrix Chat WebUI
     url: https://chat.langstadlinger.eu
     icon: https://avatars.githubusercontent.com/u/8418310
