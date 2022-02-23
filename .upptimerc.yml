@@ -21,10 +21,10 @@ sites:
     url: https://pw.langstadlinger.eu
   - name: Zabbix
     url: https://zbx.langstadlinger.eu
-  - name: Baumschule Frank
-    url: https://baumschule-frank.com
   - name: Optoingen-Web
     url: https://optoingen.com
+  - name: Baumschule Frank
+    url: https://baumschule-frank.com
 
 assignees: # Users to assign downtime issues (optional)
   - traktuner
@@ -35,7 +35,7 @@ status-website:
   cname: status.langstadlinger.eu
   #baseUrl: /status
   theme: night
-  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+2), #sapper > main > section.live-status > article:nth-child(n+4):nth-child(-n+10) { margin-left: 40px; }"
+  css: "#sapper > main > section.live-status > article:nth-child(n+1):nth-child(-n+10) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
   introTitle: "Service Status Summary"
