@@ -57,6 +57,7 @@ status-website:
   theme: night
   css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+11) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/traktuner/resources/master/Logo/logo.png
+  favicon: https://raw.githubusercontent.com/traktuner/resources/master/Logo/favicon.png
   name: Service Status
   introTitle: "Service Status Summary"
   introMessage:
