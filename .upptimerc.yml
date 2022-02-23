@@ -56,7 +56,7 @@ status-website:
   #baseUrl: /status
   theme: night
   css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+11) { margin-left: 40px; }"
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/traktuner/resources/master/Logo/logo_transparent.png
   name: Service Status
   introTitle: "Service Status Summary"
   introMessage:
