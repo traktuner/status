@@ -1,7 +1,7 @@
 url: https://matrix.langstadlinger.eu/googlechat/login/
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2022-03-11T23:14:38.200Z
+status: down
+code: 521
+responseTime: 194
+lastUpdated: 2022-03-12T18:31:15.615Z
 startTime: Wed Feb 23 2022 10:15:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
