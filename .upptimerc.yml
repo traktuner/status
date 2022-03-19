@@ -57,6 +57,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.langstadlinger.eu
   #baseUrl: /status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: night
   css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+12) { margin-left: 40px; }"
   name: Service Status
