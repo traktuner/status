@@ -26,6 +26,10 @@ sites:
   - name: Matrix Chat Synapse Status
     url: https://synapse.langstadlinger.eu
     icon: https://avatars.githubusercontent.com/u/8418310
+  - name: Matrix Federation Tester
+    url: https://federationtester.matrix.org/#langstadlinger.eu
+    __dangerous__body_down: "Connection Errors"
+    icon: https://avatars.githubusercontent.com/u/8418310
   - name: Bitwarden
     url: https://pw.langstadlinger.eu
     icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
@@ -37,8 +41,8 @@ sites:
     icon: https://pferde-helfen-menschen.at/img/wave.gif
   - name: Luke
     url: https://langstadlingerbak.de4.quickconnect.to
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
     __dangerous__body_down: "Cannot connect to"
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Baumschule Frank
     url: https://baumschule-frank.com
     icon: https://www.baumschule-frank.com/wp-content/uploads/2021/03/cropped-firmenlogo.jpg
