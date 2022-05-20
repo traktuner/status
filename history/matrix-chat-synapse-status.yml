@@ -1,7 +1,7 @@
 url: https://synapse.langstadlinger.eu
-status: up
-code: 200
-responseTime: 698
-lastUpdated: 2022-05-20T13:22:10.061Z
+status: down
+code: 404
+responseTime: 412
+lastUpdated: 2022-05-20T13:51:50.171Z
 startTime: Wed Feb 23 2022 10:15:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
