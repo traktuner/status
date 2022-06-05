@@ -77,11 +77,11 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-restore",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 560,
     "timeDay": 524,
     "timeWeek": 594,
@@ -301,9 +301,9 @@
     "url": "https://langstadlingerbak.de4.quickconnect.to",
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "luke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -312,7 +312,9 @@
     "timeWeek": 651,
     "timeMonth": 574,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 0
+    }
   },
   {
     "name": "Baumschule Frank",
