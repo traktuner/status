@@ -1,7 +1,7 @@
 url: https://prt-prod.langstadlinger.eu
-status: up
-code: 200
-responseTime: 602
-lastUpdated: 2022-07-10T23:03:40.902Z
+status: down
+code: 404
+responseTime: 578
+lastUpdated: 2022-07-11T02:31:47.160Z
 startTime: Wed Feb 23 2022 10:15:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
