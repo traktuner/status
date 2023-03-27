@@ -47,14 +47,14 @@ sites:
     icon: https://media.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_100_100/0/1633736192649?e=1687996800&v=beta&t=Qni0JDFrs4OPojxlkuw7ph-NYVrF_oL0JRxSZ6fIIAg
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
-    icon: https://$DOMAIN3/img/wave.png
+    icon: https://pferde-helfen-menschen.at/img/wave.png
   - name: Luke
     url: https://langstadlingerbak.de4.quickconnect.to
     __dangerous__body_down: "Cannot connect to"
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Baumschule Frank
     url: https://$DOMAIN5
-    icon: https://www.$DOMAIN5/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
+    icon: https://baumschule-frank.com/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
 
 assignees: # Users to assign downtime issues (optional)
   - traktuner
