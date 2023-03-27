@@ -32,29 +32,29 @@ sites:
     icon: https://avatars.githubusercontent.com/u/8418310
   - name: Bitwarden
     url: https://pw.$DOMAIN1
-    icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
+    icon: https://raw.githubusercontent.com/bitwarden/brand/master/icons/128x128.png
   - name: Mastodon
     url: https://social.$DOMAIN2
     icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
   - name: Jellyfin
     url: https://stream.$DOMAIN2
     icon: https://jellyfin.org/images/logo.svg
-  - name: Jellyfin
+  - name: Drive
     url: https://drive.$DOMAIN2
     icon: https://www.synology.com/img/dsm/drive/icon_drive@2x.png
   - name: Optoingen-Web
     url: https://$DOMAIN4
-    icon: https://media-exp1.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_200_200/0/1633736192649?e=1653523200&v=beta&t=_O_rHfZ4UPxlt8hWG9j1izig_NgmpTnJI6eREwvLcmU
+    icon: https://media.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_100_100/0/1633736192649?e=1687996800&v=beta&t=Qni0JDFrs4OPojxlkuw7ph-NYVrF_oL0JRxSZ6fIIAg
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
-    icon: https://$DOMAIN3/img/wave.gif
+    icon: https://$DOMAIN3/img/wave.png
   - name: Luke
     url: https://langstadlingerbak.de4.quickconnect.to
     __dangerous__body_down: "Cannot connect to"
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Baumschule Frank
     url: https://$DOMAIN5
-    icon: https://www.$DOMAIN5/wp-content/uploads/2021/03/cropped-firmenlogo.jpg
+    icon: https://www.$DOMAIN5/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
 
 assignees: # Users to assign downtime issues (optional)
   - traktuner
