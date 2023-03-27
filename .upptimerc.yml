@@ -1,26 +1,74 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: traktuner # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Anakin
+    url: https://anakin.$DOMAIN1
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: VMM
+    url: https://vmm.$DOMAIN1
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: ABB Backup
+    check: "tcp-ping"
+    url: backup.$DOMAIN1
+    port: 5510
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: ABB Restore
+    url: https://backup.$DOMAIN1
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: Portainer
+    url: https://prt-prod.$DOMAIN1
+    icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
+  - name: Matrix Chat WebUI
+    url: https://chat.$DOMAIN1
+    icon: https://avatars.githubusercontent.com/u/8418310
+  - name: Matrix Chat Synapse Status
+    url: https://synapse.$DOMAIN1
+    icon: https://avatars.githubusercontent.com/u/8418310
+  - name: Matrix Federation Tester
+    url: https://federationtester.matrix.org/#$DOMAIN1
+    __dangerous__body_down: "Connection Errors"
+    icon: https://avatars.githubusercontent.com/u/8418310
+  - name: Bitwarden
+    url: https://pw.$DOMAIN1
+    icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
+  - name: Mastodon
+    url: https://social.$DOMAIN2
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
+  - name: Jellyfin
+    url: https://stream.$DOMAIN2
+    icon: https://jellyfin.org/images/logo.svg
+  - name: Jellyfin
+    url: https://drive.$DOMAIN2
+    icon: https://www.synology.com/img/dsm/drive/icon_drive@2x.png
+  - name: Optoingen-Web
+    url: https://$DOMAIN4
+    icon: https://media-exp1.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_200_200/0/1633736192649?e=1653523200&v=beta&t=_O_rHfZ4UPxlt8hWG9j1izig_NgmpTnJI6eREwvLcmU
+  - name: Pferde-helfen-Menschen
+    url: https://$DOMAIN3
+    icon: https://$DOMAIN3/img/wave.gif
+  - name: Luke
+    url: https://langstadlingerbak.de4.quickconnect.to
+    __dangerous__body_down: "Cannot connect to"
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: Baumschule Frank
+    url: https://$DOMAIN5
+    icon: https://www.$DOMAIN5/wp-content/uploads/2021/03/cropped-firmenlogo.jpg
+
+assignees: # Users to assign downtime issues (optional)
+  - traktuner
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.oncloud.at
+  #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: night
+  name: Service Status
+  introTitle: "Service Status Summary"
+  introMessage:
   navbar:
     - title: Status
       href: /
