@@ -1,7 +1,7 @@
 url: https://$DOMAIN3
-status: down
-code: 502
-responseTime: 538
-lastUpdated: 2023-04-01T10:52:58.854Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2023-04-01T11:01:47.120Z
 startTime: Mon Mar 27 2023 08:50:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
