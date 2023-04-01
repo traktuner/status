@@ -40,19 +40,19 @@
     "url": "backup.$DOMAIN1",
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-backup",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 158,
-    "timeDay": 158,
+    "timeDay": 159,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-04-01": 10
+      "2023-04-01": 18
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://chat.$DOMAIN1",
     "icon": "https://avatars.githubusercontent.com/u/8418310",
     "slug": "matrix-chat-web-ui",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 508,
-    "timeDay": 533,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 510,
+    "timeDay": 534,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2023-04-01": 10
+      "2023-04-01": 18
     }
   },
   {
@@ -117,19 +117,17 @@
     "icon": "https://avatars.githubusercontent.com/u/8418310",
     "slug": "matrix-chat-synapse-status",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 708,
     "timeDay": 669,
     "timeWeek": 708,
     "timeMonth": 708,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2023-04-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matrix Federation Tester",
@@ -155,38 +153,36 @@
     "icon": "https://raw.githubusercontent.com/bitwarden/brand/master/icons/128x128.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 483,
     "timeDay": 512,
     "timeWeek": 483,
     "timeMonth": 483,
     "timeYear": 483,
-    "dailyMinutesDown": {
-      "2023-04-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mastodon",
     "url": "https://social.$DOMAIN2",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 979,
-    "timeDay": 1546,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 996,
+    "timeDay": 1474,
+    "timeWeek": 996,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2023-04-01": 10
+      "2023-04-01": 18
     }
   },
   {
@@ -195,19 +191,17 @@
     "icon": "https://jellyfin.org/images/logo.svg",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 880,
     "timeDay": 1130,
     "timeWeek": 880,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {
-      "2023-04-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Drive",
@@ -232,19 +226,19 @@
     "url": "https://$DOMAIN4",
     "icon": "https://media.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_100_100/0/1633736192649?e=1687996800&v=beta&t=Qni0JDFrs4OPojxlkuw7ph-NYVrF_oL0JRxSZ6fIIAg",
     "slug": "optoingen-web",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 712,
-    "timeDay": 656,
-    "timeWeek": 712,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 720,
+    "timeDay": 686,
+    "timeWeek": 720,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-04-01": 10
+      "2023-04-01": 18
     }
   },
   {
@@ -252,19 +246,19 @@
     "url": "https://$DOMAIN3",
     "icon": "https://pferde-helfen-menschen.at/img/wave.png",
     "slug": "pferde-helfen-menschen",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 608,
-    "timeDay": 617,
-    "timeWeek": 608,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 613,
+    "timeDay": 628,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-04-01": 10
+      "2023-04-01": 18
     }
   },
   {
