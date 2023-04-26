@@ -1,7 +1,7 @@
 url: https://synapse.$DOMAIN1
-status: down
-code: 502
-responseTime: 490
-lastUpdated: 2023-04-26T10:33:09.875Z
+status: up
+code: 200
+responseTime: 203
+lastUpdated: 2023-04-26T13:40:31.152Z
 startTime: Mon Mar 27 2023 08:50:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
