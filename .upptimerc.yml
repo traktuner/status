@@ -21,13 +21,13 @@ sites:
     url: https://prt-prod.$DOMAIN1
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: Matrix Chat WebUI
-    url: https://chat.$DOMAIN1
+    url: https://chat.$DOMAIN2
     icon: https://avatars.githubusercontent.com/u/8418310
   - name: Matrix Chat Synapse Status
-    url: https://synapse.$DOMAIN1
+    url: https://matrix.$DOMAIN2
     icon: https://avatars.githubusercontent.com/u/8418310
   - name: Matrix Federation Tester
-    url: https://federationtester.matrix.org/#$DOMAIN1
+    url: https://federationtester.matrix.org/#$DOMAIN2
     __dangerous__body_down: "Connection Errors"
     icon: https://avatars.githubusercontent.com/u/8418310
   - name: Bitwarden
