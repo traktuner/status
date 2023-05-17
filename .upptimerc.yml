@@ -32,6 +32,9 @@ sites:
   - name: Nextcloud
     url: https://storage.$DOMAIN2
     icon: https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg
+  - name: Maubot
+    url: https://asmux.$DOMAIN2
+    icon: https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg
   - name: Optoingen-Web
     url: https://$DOMAIN4
     icon: https://media.licdn.com/dms/image/C4E0BAQHcoUmHeiJ18g/company-logo_100_100/0/1633736192649?e=1687996800&v=beta&t=Qni0JDFrs4OPojxlkuw7ph-NYVrF_oL0JRxSZ6fIIAg
