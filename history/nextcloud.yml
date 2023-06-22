@@ -1,7 +1,7 @@
 url: https://storage.$DOMAIN2
 status: down
-code: 502
-responseTime: 281
-lastUpdated: 2023-06-21T23:05:03.241Z
+code: 404
+responseTime: 163
+lastUpdated: 2023-06-22T23:05:13.966Z
 startTime: Tue Apr 25 2023 12:04:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
