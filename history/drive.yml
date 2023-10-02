@@ -1,7 +1,7 @@
 url: https://drive.$DOMAIN2
-status: down
-code: 502
-responseTime: 875
-lastUpdated: 2023-10-02T13:38:05.999Z
+status: up
+code: 200
+responseTime: 812
+lastUpdated: 2023-10-02T13:46:45.837Z
 startTime: 2023-03-27T08:59:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
