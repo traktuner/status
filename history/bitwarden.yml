@@ -1,7 +1,7 @@
 url: https://pw.$DOMAIN1
-status: down
-code: 404
-responseTime: 717
-lastUpdated: 2023-11-06T07:40:35.633Z
+status: up
+code: 200
+responseTime: 421
+lastUpdated: 2023-11-06T07:49:15.736Z
 startTime: 2023-03-27T08:50:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
