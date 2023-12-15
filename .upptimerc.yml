@@ -44,7 +44,6 @@ sites:
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
     icon: https://pferde-helfen-menschen.at/img/wave.png
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Baumschule Frank
     url: https://$DOMAIN5
     icon: https://baumschule-frank.com/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
