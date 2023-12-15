@@ -44,9 +44,6 @@ sites:
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
     icon: https://pferde-helfen-menschen.at/img/wave.png
-  - name: Luke
-    url: https://langstadlingerbak.de4.quickconnect.to
-    __dangerous__body_down: "retry"
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Baumschule Frank
     url: https://$DOMAIN5
