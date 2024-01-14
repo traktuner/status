@@ -1,7 +1,7 @@
 url: https://asmux.$DOMAIN2/_matrix/maubot/manifest.json
-status: down
-code: 523
-responseTime: 2311
-lastUpdated: 2024-01-13T23:08:21.886Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2024-01-14T07:18:45.521Z
 startTime: 2023-05-17T06:39:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
