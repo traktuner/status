@@ -20,9 +20,6 @@ sites:
   - name: Portainer
     url: https://prt-prod.$DOMAIN1
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
-  - name: Bitwarden
-    url: https://pw.$DOMAIN1
-    icon: https://raw.githubusercontent.com/bitwarden/brand/master/icons/128x128.png
   - name: Immich
     url: https://photos.$DOMAIN2
     icon: https://immich.app/img/immich-logo.svg
