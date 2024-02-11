@@ -1,7 +1,7 @@
 url: https://$DOMAIN4
-status: down
-code: 404
-responseTime: 906
-lastUpdated: 2024-02-11T06:53:21.315Z
+status: up
+code: 200
+responseTime: 866
+lastUpdated: 2024-02-11T07:01:23.776Z
 startTime: 2023-03-27T08:50:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
