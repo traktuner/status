@@ -183,19 +183,19 @@
     "url": "https://immich-ml.$DOMAIN2",
     "icon": "https://immich.app/img/immich-logo.svg",
     "slug": "immich-machine-learning",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 390,
-    "timeWeek": 493,
-    "timeMonth": 528,
-    "timeYear": 556,
+    "time": 558,
+    "timeDay": 555,
+    "timeWeek": 521,
+    "timeMonth": 534,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-03-28": 1
+      "2024-03-28": 7
     }
   },
   {
