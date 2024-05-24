@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.51%",
     "time": 685,
-    "timeDay": 561,
-    "timeWeek": 644,
-    "timeMonth": 603,
-    "timeYear": 696,
+    "timeDay": 511,
+    "timeWeek": 593,
+    "timeMonth": 602,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2024-05-16": 19,
       "2024-03-26": 433,
@@ -24,8 +24,7 @@
       "2023-07-22": 349,
       "2023-06-26": 15,
       "2023-06-21": 16,
-      "2023-06-14": 26,
-      "2023-05-25": 382
+      "2023-06-14": 26
     }
   },
   {
@@ -36,14 +35,14 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.51%",
     "time": 790,
-    "timeDay": 692,
-    "timeWeek": 620,
-    "timeMonth": 599,
-    "timeYear": 802,
+    "timeDay": 507,
+    "timeWeek": 564,
+    "timeMonth": 594,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2024-05-16": 17,
       "2024-03-26": 425,
@@ -53,8 +52,7 @@
       "2023-07-22": 348,
       "2023-06-26": 15,
       "2023-06-14": 24,
-      "2023-05-26": 34,
-      "2023-05-25": 381
+      "2023-05-26": 34
     }
   },
   {
@@ -65,13 +63,13 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.49%",
     "time": 158,
-    "timeDay": 0,
-    "timeWeek": 134,
-    "timeMonth": 128,
+    "timeDay": 119,
+    "timeWeek": 120,
+    "timeMonth": 127,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-05-16": 16,
@@ -82,8 +80,7 @@
       "2023-07-22": 347,
       "2023-07-16": 169,
       "2023-06-26": 15,
-      "2023-06-14": 23,
-      "2023-05-25": 380
+      "2023-06-14": 23
     }
   },
   {
@@ -94,13 +91,13 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.46%",
     "time": 590,
-    "timeDay": 571,
-    "timeWeek": 571,
-    "timeMonth": 571,
+    "timeDay": 498,
+    "timeWeek": 531,
+    "timeMonth": 570,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2024-05-16": 15,
@@ -112,8 +109,7 @@
       "2023-07-22": 346,
       "2023-07-16": 169,
       "2023-06-26": 15,
-      "2023-06-14": 22,
-      "2023-05-25": 379
+      "2023-06-14": 22
     }
   },
   {
@@ -126,12 +122,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.53%",
     "time": 629,
-    "timeDay": 702,
-    "timeWeek": 594,
-    "timeMonth": 590,
-    "timeYear": 638,
+    "timeDay": 484,
+    "timeWeek": 553,
+    "timeMonth": 571,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2024-03-26": 422,
       "2024-01-14": 439,
@@ -139,8 +135,7 @@
       "2023-07-23": 344,
       "2023-07-22": 346,
       "2023-06-26": 13,
-      "2023-06-14": 17,
-      "2023-05-25": 378
+      "2023-06-14": 17
     }
   },
   {
@@ -154,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 539,
-    "timeDay": 417,
-    "timeWeek": 499,
-    "timeMonth": 525,
-    "timeYear": 539,
+    "time": 538,
+    "timeDay": 392,
+    "timeWeek": 443,
+    "timeMonth": 522,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2024-03-26": 422,
       "2024-01-14": 439,
@@ -172,18 +167,17 @@
     "icon": "https://immich.app/img/immich-logo.svg",
     "slug": "immich-machine-learning",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 548,
-    "timeDay": 507,
-    "timeWeek": 511,
-    "timeMonth": 527,
-    "timeYear": 548,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 547,
+    "timeDay": 485,
+    "timeWeek": 498,
+    "timeMonth": 526,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-23": 10,
       "2024-04-08": 33
     }
   },
@@ -193,16 +187,16 @@
     "icon": "https://www.synology.com/img/dsm/drive/icon_drive@2x.png",
     "slug": "drive",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.15%",
+    "uptimeYear": "96.23%",
     "time": 740,
-    "timeDay": 682,
-    "timeWeek": 639,
-    "timeMonth": 712,
-    "timeYear": 748,
+    "timeDay": 544,
+    "timeWeek": 587,
+    "timeMonth": 677,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2024-03-26": 420,
       "2024-01-14": 439,
@@ -222,8 +216,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 816
+      "2023-05-26": 1440
     }
   },
   {
@@ -232,18 +225,17 @@
     "icon": "https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "89.38%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "90.36%",
-    "time": 1034,
-    "timeDay": 953,
-    "timeWeek": 917,
-    "timeMonth": 860,
-    "timeYear": 1084,
+    "uptime": "89.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "90.55%",
+    "time": 1033,
+    "timeDay": 863,
+    "timeWeek": 886,
+    "timeMonth": 831,
+    "timeYear": 1087,
     "dailyMinutesDown": {
-      "2024-05-23": 10,
       "2024-04-08": 32,
       "2023-11-20": 203,
       "2023-11-14": 19,
@@ -283,8 +275,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -293,15 +284,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg",
     "slug": "maubot",
     "status": "up",
-    "uptime": "96.20%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.15%",
+    "uptimeYear": "96.23%",
     "time": 570,
-    "timeDay": 548,
-    "timeWeek": 466,
-    "timeMonth": 482,
+    "timeDay": 394,
+    "timeWeek": 441,
+    "timeMonth": 479,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2024-03-26": 419,
@@ -321,8 +312,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 815
+      "2023-05-26": 1440
     }
   },
   {
@@ -337,10 +327,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 190,
-    "timeWeek": 205,
-    "timeMonth": 301,
-    "timeYear": 236,
+    "timeDay": 122,
+    "timeWeek": 206,
+    "timeMonth": 295,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2023-10-30": 22
     }
@@ -356,11 +346,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1766,
-    "timeDay": 1422,
-    "timeWeek": 1675,
-    "timeMonth": 1686,
-    "timeYear": 1762,
+    "time": 1767,
+    "timeDay": 1486,
+    "timeWeek": 1707,
+    "timeMonth": 1699,
+    "timeYear": 1764,
     "dailyMinutesDown": {
       "2024-05-23": 20,
       "2024-04-08": 30,
