@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.64%",
     "time": 683,
-    "timeDay": 559,
-    "timeWeek": 564,
-    "timeMonth": 629,
-    "timeYear": 678,
+    "timeDay": 455,
+    "timeWeek": 567,
+    "timeMonth": 630,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2024-05-16": 19,
       "2024-03-26": 433,
@@ -23,8 +23,7 @@
       "2023-07-23": 343,
       "2023-07-22": 349,
       "2023-06-26": 15,
-      "2023-06-21": 16,
-      "2023-06-14": 26
+      "2023-06-21": 16
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
     "time": 781,
-    "timeDay": 614,
-    "timeWeek": 582,
-    "timeMonth": 585,
-    "timeYear": 799,
+    "timeDay": 686,
+    "timeWeek": 610,
+    "timeMonth": 590,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2024-05-16": 17,
       "2024-03-26": 425,
@@ -50,8 +49,7 @@
       "2024-01-13": 220,
       "2023-07-23": 344,
       "2023-07-22": 348,
-      "2023-06-26": 15,
-      "2023-06-14": 24
+      "2023-06-26": 15
     }
   },
   {
@@ -67,7 +65,7 @@
     "uptimeYear": "99.62%",
     "time": 156,
     "timeDay": 102,
-    "timeWeek": 120,
+    "timeWeek": 121,
     "timeMonth": 122,
     "timeYear": 156,
     "dailyMinutesDown": {
@@ -78,8 +76,7 @@
       "2023-07-23": 344,
       "2023-07-22": 347,
       "2023-07-16": 169,
-      "2023-06-26": 15,
-      "2023-06-14": 23
+      "2023-06-26": 15
     }
   },
   {
@@ -94,9 +91,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.60%",
     "time": 588,
-    "timeDay": 533,
-    "timeWeek": 530,
-    "timeMonth": 541,
+    "timeDay": 668,
+    "timeWeek": 564,
+    "timeMonth": 547,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2024-05-16": 15,
@@ -107,8 +104,7 @@
       "2023-07-23": 344,
       "2023-07-22": 346,
       "2023-07-16": 169,
-      "2023-06-26": 15,
-      "2023-06-14": 22
+      "2023-06-26": 15
     }
   },
   {
@@ -123,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 627,
-    "timeDay": 577,
-    "timeWeek": 567,
-    "timeMonth": 576,
+    "timeDay": 473,
+    "timeWeek": 562,
+    "timeMonth": 575,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2024-03-26": 422,
@@ -133,8 +129,7 @@
       "2024-01-13": 218,
       "2023-07-23": 344,
       "2023-07-22": 346,
-      "2023-06-26": 13,
-      "2023-06-14": 17
+      "2023-06-26": 13
     }
   },
   {
@@ -143,14 +138,14 @@
     "icon": "https://immich.app/img/immich-logo.svg",
     "slug": "immich",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 542,
-    "timeDay": 408,
-    "timeWeek": 471,
+    "timeDay": 440,
+    "timeWeek": 475,
     "timeMonth": 540,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -171,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
-    "time": 555,
-    "timeDay": 565,
-    "timeWeek": 830,
-    "timeMonth": 580,
-    "timeYear": 555,
+    "time": 554,
+    "timeDay": 399,
+    "timeWeek": 823,
+    "timeMonth": 577,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2024-06-04": 51,
       "2024-04-08": 33
@@ -187,24 +182,23 @@
     "icon": "https://www.synology.com/img/dsm/drive/icon_drive@2x.png",
     "slug": "drive",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 736,
-    "timeDay": 604,
-    "timeWeek": 656,
-    "timeMonth": 663,
-    "timeYear": 744,
+    "timeDay": 591,
+    "timeWeek": 666,
+    "timeMonth": 644,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2024-03-26": 420,
       "2024-01-14": 439,
       "2024-01-13": 217,
       "2023-07-23": 344,
       "2023-07-22": 346,
-      "2023-06-26": 13,
-      "2023-06-14": 15
+      "2023-06-26": 13
     }
   },
   {
@@ -213,16 +207,16 @@
     "icon": "https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "89.88%",
+    "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "95.74%",
-    "time": 1024,
-    "timeDay": 699,
-    "timeWeek": 977,
+    "uptimeYear": "96.02%",
+    "time": 1023,
+    "timeDay": 710,
+    "timeWeek": 983,
     "timeMonth": 838,
-    "timeYear": 935,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2024-06-04": 51,
       "2024-04-08": 32,
@@ -244,8 +238,7 @@
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
-      "2023-06-15": 1440,
-      "2023-06-14": 1440
+      "2023-06-15": 1440
     }
   },
   {
@@ -254,16 +247,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg",
     "slug": "maubot",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 566,
-    "timeDay": 482,
-    "timeWeek": 480,
-    "timeMonth": 476,
-    "timeYear": 563,
+    "timeDay": 488,
+    "timeWeek": 484,
+    "timeMonth": 479,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2024-03-26": 419,
       "2024-01-14": 439,
@@ -285,9 +278,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 157,
-    "timeWeek": 223,
-    "timeMonth": 234,
+    "timeDay": 224,
+    "timeWeek": 222,
+    "timeMonth": 210,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-10-30": 22
@@ -304,11 +297,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
-    "time": 1784,
-    "timeDay": 2083,
-    "timeWeek": 2126,
-    "timeMonth": 1981,
-    "timeYear": 1790,
+    "time": 1785,
+    "timeDay": 2245,
+    "timeWeek": 2149,
+    "timeMonth": 1996,
+    "timeYear": 1792,
     "dailyMinutesDown": {
       "2024-06-04": 51,
       "2024-05-23": 20,
