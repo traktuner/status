@@ -1,7 +1,7 @@
 url: https://immich-ml.$DOMAIN2
-status: down
-code: 404
-responseTime: 443
-lastUpdated: 2024-06-13T03:49:52.388Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2024-06-13T03:58:26.581Z
 startTime: 2023-11-17T05:53:36.832Z
 generator: Upptime <https://github.com/upptime/upptime>
