@@ -1,7 +1,7 @@
 url: https://$DOMAIN5
-status: down
-code: 500
-responseTime: 611
-lastUpdated: 2024-06-26T21:22:07.527Z
+status: up
+code: 200
+responseTime: 2096
+lastUpdated: 2024-06-26T21:29:56.129Z
 startTime: 2023-03-27T08:50:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
