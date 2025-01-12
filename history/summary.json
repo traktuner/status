@@ -5,15 +5,15 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "anakin",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.50%",
-    "time": 658,
-    "timeDay": 788,
-    "timeWeek": 682,
-    "timeMonth": 616,
+    "time": 657,
+    "timeDay": 780,
+    "timeWeek": 676,
+    "timeMonth": 626,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2024-09-15": 660,
@@ -38,8 +38,7 @@
       "2024-08-27": 1202,
       "2024-05-16": 19,
       "2024-03-26": 433,
-      "2024-01-14": 438,
-      "2024-01-13": 237
+      "2024-01-14": 438
     }
   },
   {
@@ -54,16 +53,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 707,
-    "timeDay": 701,
-    "timeWeek": 636,
-    "timeMonth": 587,
-    "timeYear": 708,
+    "timeDay": 699,
+    "timeWeek": 632,
+    "timeMonth": 593,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2024-09-15": 18,
       "2024-05-16": 17,
       "2024-03-26": 425,
-      "2024-01-14": 438,
-      "2024-01-13": 220
+      "2024-01-14": 438
     }
   },
   {
@@ -79,15 +77,14 @@
     "uptimeYear": "99.79%",
     "time": 138,
     "timeDay": 172,
-    "timeWeek": 146,
-    "timeMonth": 129,
+    "timeWeek": 148,
+    "timeMonth": 131,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-09-15": 17,
       "2024-05-16": 16,
       "2024-03-26": 424,
-      "2024-01-14": 438,
-      "2024-01-13": 219
+      "2024-01-14": 438
     }
   },
   {
@@ -101,17 +98,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 579,
-    "timeDay": 715,
-    "timeWeek": 628,
-    "timeMonth": 575,
+    "time": 580,
+    "timeDay": 779,
+    "timeWeek": 645,
+    "timeMonth": 585,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2024-09-15": 31,
       "2024-05-16": 15,
       "2024-03-26": 424,
-      "2024-01-14": 439,
-      "2024-01-13": 218
+      "2024-01-14": 439
     }
   },
   {
@@ -126,15 +122,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 641,
-    "timeDay": 753,
-    "timeWeek": 635,
-    "timeMonth": 588,
+    "timeDay": 731,
+    "timeWeek": 633,
+    "timeMonth": 595,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2024-09-15": 30,
       "2024-03-26": 422,
-      "2024-01-14": 439,
-      "2024-01-13": 218
+      "2024-01-14": 439
     }
   },
   {
@@ -149,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 546,
-    "timeDay": 608,
-    "timeWeek": 646,
-    "timeMonth": 570,
+    "timeDay": 619,
+    "timeWeek": 605,
+    "timeMonth": 577,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2024-10-21": 119,
@@ -162,8 +157,7 @@
       "2024-09-12": 19,
       "2024-08-13": 19,
       "2024-03-26": 422,
-      "2024-01-14": 439,
-      "2024-01-13": 218
+      "2024-01-14": 439
     }
   },
   {
@@ -178,15 +172,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 740,
-    "timeDay": 802,
-    "timeWeek": 676,
-    "timeMonth": 704,
-    "timeYear": 738,
+    "timeDay": 692,
+    "timeWeek": 671,
+    "timeMonth": 708,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2024-09-15": 28,
       "2024-03-26": 420,
-      "2024-01-14": 439,
-      "2024-01-13": 217
+      "2024-01-14": 439
     }
   },
   {
@@ -195,18 +188,19 @@
     "icon": "https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "92.79%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.08%",
-    "time": 924,
-    "timeDay": 2711,
-    "timeWeek": 1331,
-    "timeMonth": 897,
-    "timeYear": 875,
+    "uptime": "92.65%",
+    "uptimeDay": "2.13%",
+    "uptimeWeek": "85.86%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "98.81%",
+    "time": 925,
+    "timeDay": 1546,
+    "timeWeek": 1394,
+    "timeMonth": 923,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-01-11": 2,
+      "2025-01-12": 1,
+      "2025-01-11": 1408,
       "2025-01-10": 16,
       "2024-12-29": 71,
       "2024-12-19": 25,
@@ -237,15 +231,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 544,
-    "timeDay": 688,
-    "timeWeek": 531,
-    "timeMonth": 534,
-    "timeYear": 547,
+    "timeDay": 697,
+    "timeWeek": 552,
+    "timeMonth": 544,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2024-09-15": 26,
       "2024-03-26": 419,
-      "2024-01-14": 439,
-      "2024-01-13": 217
+      "2024-01-14": 439
     }
   },
   {
@@ -260,9 +253,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 166,
-    "timeWeek": 339,
-    "timeMonth": 247,
+    "timeDay": 290,
+    "timeWeek": 341,
+    "timeMonth": 249,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -272,18 +265,19 @@
     "icon": "https://baumschule-frank.com/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png",
     "slug": "baumschule-frank",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.07%",
-    "time": 1857,
-    "timeDay": 9191,
-    "timeWeek": 3701,
-    "timeMonth": 2146,
-    "timeYear": 1926,
+    "uptime": "99.33%",
+    "uptimeDay": "2.23%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "98.81%",
+    "time": 1854,
+    "timeDay": 300,
+    "timeWeek": 3476,
+    "timeMonth": 2107,
+    "timeYear": 1922,
     "dailyMinutesDown": {
-      "2025-01-11": 0,
+      "2025-01-12": 1,
+      "2025-01-11": 1407,
       "2024-12-29": 58,
       "2024-12-19": 24,
       "2024-12-08": 45,
