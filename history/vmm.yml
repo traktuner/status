@@ -1,7 +1,7 @@
 url: https://vmm.$DOMAIN1
-status: down
-code: 521
-responseTime: 3326
-lastUpdated: 2025-03-10T04:49:36.273Z
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2025-03-10T04:57:38.492Z
 startTime: 2023-03-27T08:50:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
