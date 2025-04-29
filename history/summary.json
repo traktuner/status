@@ -275,19 +275,19 @@
     "url": "https://$DOMAIN3",
     "icon": "https://pferde-helfen-menschen.at/img/wave.png",
     "slug": "pferde-helfen-menschen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 224,
-    "timeWeek": 238,
-    "timeMonth": 258,
+    "timeDay": 221,
+    "timeWeek": 235,
+    "timeMonth": 257,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 23
     }
   },
   {
