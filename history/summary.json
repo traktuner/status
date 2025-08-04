@@ -5,18 +5,18 @@
     "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/authentik.svg",
     "slug": "authentik",
     "status": "down",
-    "uptime": "3.80%",
-    "uptimeDay": "3.80%",
-    "uptimeWeek": "3.80%",
-    "uptimeMonth": "3.80%",
-    "uptimeYear": "3.80%",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 155,
     "timeDay": 155,
     "timeWeek": 155,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-04": 1
     }
   },
   {
@@ -266,7 +266,7 @@
     "timeMonth": 568,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-08-04": 252,
+      "2025-08-04": 253,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -319,7 +319,7 @@
     "timeMonth": 338,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-08-04": 252,
+      "2025-08-04": 253,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
