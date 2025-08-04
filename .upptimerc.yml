@@ -36,7 +36,7 @@ sites:
     url: https://$DOMAIN2
     icon: https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg
   - name: Maubot
-    url: https://asmux.$DOMAIN2/_matrix/maubot/manifest.json
+    url: https://asmux.$DOMAIN2/_matrix/maubot/#/login
     icon: https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
