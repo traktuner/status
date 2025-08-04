@@ -33,7 +33,7 @@ sites:
     url: https://drive.$DOMAIN2
     icon: https://www.synology.com/img/dsm/drive/icon_drive@2x.png
   - name: Nextcloud
-    url: https://$DOMAIN2
+    url: https://$DOMAIN2/status.php
     icon: https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg
   - name: Maubot
     url: https://asmux.$DOMAIN2/_matrix/maubot/#/login
