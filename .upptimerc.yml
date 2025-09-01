@@ -32,9 +32,9 @@ sites:
   - name: Drive
     url: https://drive.$DOMAIN2
     icon: https://www.synology.com/img/dsm/drive/icon_drive@2x.png
-  - name: Nextcloud
+  - name: OpenCloud
     url: https://$DOMAIN2/status.php
-    icon: https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_blue.svg
+    icon: https://opencloud.eu/sites/default/files/media/documents/2025-01/OpenCloud_logo_rgb_digital_petrol_ohne_Schutzraum.svg
   - name: Maubot
     url: https://asmux.$DOMAIN2/_matrix/maubot/#/login
     icon: https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg
