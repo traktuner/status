@@ -226,18 +226,20 @@
     "url": "https://$DOMAIN2/status.php",
     "icon": "https://opencloud.eu/sites/default/files/media/documents/2025-01/OpenCloud_logo_rgb_digital_petrol_ohne_Schutzraum.svg",
     "slug": "open-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 445,
-    "timeWeek": 465,
-    "timeMonth": 567,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "time": 579,
+    "timeDay": 625,
+    "timeWeek": 507,
+    "timeMonth": 579,
+    "timeYear": 579,
+    "dailyMinutesDown": {
+      "2025-09-16": 0
+    }
   },
   {
     "name": "Maubot",
