@@ -226,19 +226,19 @@
     "url": "https://$DOMAIN2/status.php",
     "icon": "https://opencloud.eu/sites/default/files/media/documents/2025-01/OpenCloud_logo_rgb_digital_petrol_ohne_Schutzraum.svg",
     "slug": "open-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 625,
-    "timeWeek": 507,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 572,
+    "timeDay": 559,
+    "timeWeek": 499,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-09-16": 0
+      "2025-09-16": 8
     }
   },
   {
