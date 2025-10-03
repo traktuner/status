@@ -46,7 +46,7 @@ sites:
     icon: https://baumschule-frank.com/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
   - name: Urlaub am Jauerling
     url: https://$DOMAIN4
-    icon: https://$DOMAIN4/wp-content/uploads/sites/3/2025/09/amjauerling.png
+    icon: https://urlaub.$DOMAIN4/wp-content/uploads/sites/3/2025/09/amjauerling.png
 
 assignees: # Users to assign downtime issues (optional)
   - traktuner
