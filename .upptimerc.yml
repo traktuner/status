@@ -45,8 +45,8 @@ sites:
     url: https://$DOMAIN5
     icon: https://baumschule-frank.com/wp-content/uploads/2021/02/Kopf_Frank_Website_Header.png
   - name: Urlaub am Jauerling
-    url: https://$DOMAIN4
-    icon: https://urlaub.$DOMAIN4/wp-content/uploads/sites/3/2025/09/amjauerling.png
+    url: https://urlaub.amjauerling.at
+    icon: https://urlaub.amjauerling.at/wp-content/uploads/sites/3/2025/09/amjauerling.png
 
 assignees: # Users to assign downtime issues (optional)
   - traktuner
