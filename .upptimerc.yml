@@ -9,9 +9,6 @@ sites:
   - name: Anakin
     url: https://anakin.$DOMAIN1
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
-  - name: VMM
-    url: https://vmm.$DOMAIN1
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: ABB Backup
     check: "tcp-ping"
     url: backup.$DOMAIN1
@@ -25,13 +22,7 @@ sites:
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: Immich
     url: https://photos.$DOMAIN2
-    icon: https://immich.app/img/immich-logo.svg
-  - name: Immich Machine Learning
-    url: https://immich-ml.$DOMAIN2
-    icon: https://immich.app/img/immich-logo.svg
-  - name: Drive
-    url: https://drive.$DOMAIN2
-    icon: https://www.synology.com/img/dsm/drive/icon_drive@2x.png
+    icon: https://immich.app/img/immich-logo.svg.svg.png
   - name: OpenCloud
     url: https://$DOMAIN2/status.php
     icon: https://opencloud.eu/sites/default/files/media/documents/2025-01/OpenCloud_logo_rgb_digital_petrol_ohne_Schutzraum.svg
