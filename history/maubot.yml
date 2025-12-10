@@ -1,7 +1,7 @@
 url: https://asmux.$DOMAIN2/_matrix/maubot/#/login
-status: up
-code: 200
-responseTime: 823
-lastUpdated: 2025-12-10T12:35:13.070Z
+status: down
+code: 521
+responseTime: 211
+lastUpdated: 2025-12-10T19:03:12.851Z
 startTime: 2023-05-17T06:39:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
