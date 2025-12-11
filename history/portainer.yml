@@ -1,7 +1,7 @@
 url: https://prt-prod.$DOMAIN1
-status: down
-code: 404
-responseTime: 890
-lastUpdated: 2025-12-11T15:11:57.096Z
+status: up
+code: 200
+responseTime: 924
+lastUpdated: 2025-12-11T15:26:56.468Z
 startTime: 2023-03-27T08:50:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
