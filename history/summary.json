@@ -27,18 +27,18 @@
     "icon": "https://cdn2.steamgriddb.com/icon/52aee03d2e0f909e4311bea5510543c5/32/256x256.png",
     "slug": "ur-backup",
     "status": "down",
-    "uptime": "85.38%",
-    "uptimeDay": "85.38%",
-    "uptimeWeek": "85.38%",
-    "uptimeMonth": "85.38%",
-    "uptimeYear": "85.38%",
+    "uptime": "67.20%",
+    "uptimeDay": "67.20%",
+    "uptimeWeek": "67.20%",
+    "uptimeMonth": "67.20%",
+    "uptimeYear": "67.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 0
+      "2026-01-22": 1
     }
   },
   {
