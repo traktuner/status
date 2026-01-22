@@ -6,17 +6,11 @@ sites:
   - name: Authentik
     url: https://id.$DOMAIN2
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/authentik.svg
-  - name: Anakin
-    url: https://anakin.$DOMAIN1
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
-  - name: ABB Backup
+  - name: UrBackup
     check: "tcp-ping"
-    url: backup.$DOMAIN1
-    port: 5510
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
-  - name: ABB Restore
-    url: https://backup.$DOMAIN1
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+    url: backup.$DOMAIN2
+    port: 55414
+    icon: https://cdn2.steamgriddb.com/icon/52aee03d2e0f909e4311bea5510543c5/32/256x256.png
   - name: Portainer
     url: https://prt-prod.$DOMAIN1
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
@@ -26,9 +20,6 @@ sites:
   - name: OpenCloud
     url: https://$DOMAIN2/status.php
     icon: https://opencloud.eu/sites/default/files/media/documents/2025-01/OpenCloud_logo_rgb_digital_petrol_ohne_Schutzraum.svg
-  - name: Maubot
-    url: https://asmux.$DOMAIN2/_matrix/maubot/#/login
-    icon: https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg
   - name: Pferde-helfen-Menschen
     url: https://$DOMAIN3
     icon: https://pferde-helfen-menschen.at/img/wave.png
