@@ -9,7 +9,7 @@ sites:
   - name: UrBackup
     check: "tcp-ping"
     url: backup.$DOMAIN2
-    port: 55414
+    port: 55415
     icon: https://cdn2.steamgriddb.com/icon/52aee03d2e0f909e4311bea5510543c5/32/256x256.png
   - name: Portainer
     url: https://prt-prod.$DOMAIN1
