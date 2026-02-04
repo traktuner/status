@@ -1,7 +1,7 @@
 url: https://photos.$DOMAIN2
-status: down
-code: 404
-responseTime: 526
-lastUpdated: 2026-02-04T11:21:46.292Z
+status: up
+code: 200
+responseTime: 675
+lastUpdated: 2026-02-04T11:40:27.759Z
 startTime: 2023-11-17T05:53:35.375Z
 generator: Upptime <https://github.com/upptime/upptime>
