@@ -1,7 +1,7 @@
 url: backup.$DOMAIN2
-status: up
-code: 200
-responseTime: 194
-lastUpdated: 2026-02-13T23:12:39.802Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-14T21:46:19.987Z
 startTime: 2026-01-22T11:48:10.895Z
 generator: Upptime <https://github.com/upptime/upptime>
