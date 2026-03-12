@@ -1,7 +1,7 @@
 url: https://$DOMAIN2/status.php
-status: down
-code: 522
-responseTime: 19843
-lastUpdated: 2026-03-12T12:53:40.026Z
+status: up
+code: 200
+responseTime: 766
+lastUpdated: 2026-03-12T13:21:40.698Z
 startTime: 2025-09-01T10:26:51.177Z
 generator: Upptime <https://github.com/upptime/upptime>
