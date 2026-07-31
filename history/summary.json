@@ -6,7 +6,7 @@
     "slug": "keycloak",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "97.31%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.70%",
@@ -66,7 +66,7 @@
       "2026-05-08": 31,
       "2026-05-09": 29,
       "2026-05-12": 201,
-      "2026-07-31": 81,
+      "2026-07-31": 82,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -134,7 +134,7 @@
     "slug": "immich",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.36%",
@@ -201,9 +201,9 @@
     "slug": "open-cloud",
     "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.66%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "98.19%",
     "time": 1316,
     "timeDay": 361,
@@ -327,8 +327,8 @@
     "slug": "urlaub-am-jauerling",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 2308,
@@ -367,7 +367,7 @@
       "2026-06-08": 305,
       "2026-06-24": 84,
       "2026-06-25": 75,
-      "2026-07-31": 0
+      "2026-07-31": 1
     }
   }
 ]
